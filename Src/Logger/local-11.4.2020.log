@@ -1,0 +1,20 @@
+2020-04-11 08:45:46 - Level: critical - Message: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bug_app.reports' doesn't exist - Context: {"reportType":"Audio","message":"The video on xxx has audio issues, please check and fix it","email":"test@example.com","link":"https:\/\/example.com","add":"1"}
+2020-04-11 08:49:39 - Level: critical - Message: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bug_app.reports' doesn't exist - Context: {"reportType":"Audio","message":"The video on xxx has audio issues, please check and fix it","email":"test@example.com","link":"https:\/\/example.com","add":"1"}
+2020-04-11 08:51:07 - Level: critical - Message: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bug_app.reports' doesn't exist - Context: {"reportType":"Audio","message":"The video on xxx has audio issues, please check and fix it","email":"test@example.com","link":"https:\/\/example.com","add":"1"}
+2020-04-11 08:56:26 - Level: critical - Message: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bug_app.reports' doesn't exist - Context: {"reportType":"Audio","message":"The video on xxx has audio issues, please check and fix it","email":"test@example.com","link":"https:\/\/example.com","add":"1"}
+2020-04-11 08:56:29 - Level: critical - Message: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bug_app.reports' doesn't exist - Context: {"reportType":"Audio","message":"The video on xxx has audio issues, please check and fix it","email":"test@example.com","link":"https:\/\/example.com","add":"1"}
+2020-04-11 08:58:13 - Level: critical - Message: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bug_app.reports' doesn't exist - Context: {"reportType":"Audio","message":"The video on xxx has audio issues, please check and fix it","email":"test@example.com","link":"https:\/\/example.com","add":"1"}
+2020-04-11 08:58:57 - Level: critical - Message: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bug_app.reports' doesn't exist - Context: {"reportType":"Audio","message":"The video on xxx has audio issues, please check and fix it","email":"test@example.com","link":"https:\/\/example.com","add":"1"}
+2020-04-11 08:59:00 - Level: critical - Message: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bug_app.reports' doesn't exist - Context: {"reportType":"Audio","message":"The video on xxx has audio issues, please check and fix it","email":"test@example.com","link":"https:\/\/example.com","add":"1"}
+2020-04-11 09:01:28 - Level: info - Message: new bug report created - Context: {"id":1,"type":"Audio"}
+2020-04-11 09:02:07 - Level: info - Message: new bug report created - Context: {"id":2,"type":"Audio"}
+2020-04-11 09:02:07 - Level: info - Message: bug report updated - Context: {"id":1,"type":"Audio"}
+2020-04-11 09:02:52 - Level: info - Message: new bug report created - Context: {"id":3,"type":"Audio"}
+2020-04-11 09:02:52 - Level: info - Message: bug report updated - Context: {"id":2,"type":"Audio"}
+2020-04-11 09:02:52 - Level: info - Message: bug report deleted - Context: {"id":2,"type":"Audio"}
+2020-04-11 09:33:03 - Level: info - Message: new bug report created - Context: {"id":4,"type":"Audio"}
+2020-04-11 09:33:03 - Level: info - Message: bug report updated - Context: {"id":3,"type":"Audio"}
+2020-04-11 09:33:03 - Level: info - Message: bug report deleted - Context: {"id":3,"type":"Audio"}
+2020-04-11 09:33:09 - Level: info - Message: new bug report created - Context: {"id":5,"type":"Audio"}
+2020-04-11 09:33:09 - Level: info - Message: bug report updated - Context: {"id":4,"type":"Audio"}
+2020-04-11 09:33:09 - Level: info - Message: bug report deleted - Context: {"id":4,"type":"Audio"}
